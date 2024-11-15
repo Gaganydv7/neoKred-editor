@@ -6,7 +6,7 @@
 (a) run npm i 
 (b) npm start - server will start running on port 1000
 
-## 3, go back cd react-fe  and run below commands
+## 4. go back cd react-fe  and run below commands
 
 (a) run npm i 
 (b) npm start - server will start running on port 3000
