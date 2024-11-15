@@ -17,7 +17,7 @@ const App = () => {
       });
       const result = await response.json();
       setResponse(result);
-      console.log(result);
+      // console.log(result);
     } catch (error) {
       console.error('something went wring ', error);
     }
